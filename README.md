@@ -1,11 +1,6 @@
 # School_District_Analysis
+In this project, I assist a data scientist to analyse data from local student districts. The analysis primarily will focus on school funding and student test scores i.e. both reading and math tests. The results will help the school board and superinteredent make better informed decisions about the school budget for the next calendar year. 
 
-A high-level snapshot of the district's key metrics, presented in a table format
-An overview of the key metrics for each school, presented in a table format
-Tables presenting each of the following metrics:
-Top 5 and bottom 5 performing schools, based on the overall passing rate
-The average math score received by students in each grade level at each school
-The average reading score received by students in each grade level at each school
-School performance based on the budget per student
-School performance based on the school size 
-School performance based on the type of school
+Below is a snapshot of the scores by school type 
+
+![This is an image](https://github.com/jackfrost68/School_District_Analysis/blob/2ff0b3d56f77c06cf3712f9cc29adfc353d000c6/Screen%20Shot%202021-11-20%20at%204.59.21%20PM.png)
